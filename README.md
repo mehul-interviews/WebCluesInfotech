@@ -8,7 +8,7 @@ You need to write the following commands on the terminal screen so that you can 
 3. docker build -t myapp:v1 .
 4. docker compose up --build
 5. docker ps -a
-6. docker exec -it containerID /bin/bash
+6. docker exec -it 6d14feb5de2b /bin/sh
 7. curl localhost:3000
 ```
 
