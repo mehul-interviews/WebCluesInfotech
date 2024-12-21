@@ -1,4 +1,4 @@
-# Dockerbuild and create container
+# Docker build and create container
 
 You need to write the following commands on the terminal screen so that you can run the project locally.
 
